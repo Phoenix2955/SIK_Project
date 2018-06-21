@@ -1,0 +1,7 @@
+c:\users\ja\Source\Repos\serverBSD2\serverBSD2\bin\Debug\serverBSD2.exe.config
+c:\users\ja\Source\Repos\serverBSD2\serverBSD2\bin\Debug\serverBSD2.exe
+c:\users\ja\Source\Repos\serverBSD2\serverBSD2\bin\Debug\serverBSD2.pdb
+c:\users\ja\Source\Repos\serverBSD2\serverBSD2\obj\Debug\serverBSD2.csprojResolveAssemblyReference.cache
+c:\users\ja\Source\Repos\serverBSD2\serverBSD2\obj\Debug\serverBSD2.csproj.CoreCompileInputs.cache
+c:\users\ja\Source\Repos\serverBSD2\serverBSD2\obj\Debug\serverBSD2.exe
+c:\users\ja\Source\Repos\serverBSD2\serverBSD2\obj\Debug\serverBSD2.pdb

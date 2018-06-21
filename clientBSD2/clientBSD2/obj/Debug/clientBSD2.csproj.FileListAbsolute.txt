@@ -1,0 +1,8 @@
+c:\users\ja\Source\Repos\clientBSD2\clientBSD2\bin\Debug\clientBSD2.exe.config
+c:\users\ja\Source\Repos\clientBSD2\clientBSD2\bin\Debug\clientBSD2.exe
+c:\users\ja\Source\Repos\clientBSD2\clientBSD2\bin\Debug\clientBSD2.pdb
+c:\users\ja\Source\Repos\clientBSD2\clientBSD2\obj\Debug\clientBSD2.csproj.CoreCompileInputs.cache
+c:\users\ja\Source\Repos\clientBSD2\clientBSD2\obj\Debug\clientBSD2.exe
+c:\users\ja\Source\Repos\clientBSD2\clientBSD2\obj\Debug\clientBSD2.pdb
+C:\Users\ja\Source\Repos\clientBSD2\clientBSD2\obj\Debug\clientBSD2.csprojResolveAssemblyReference.cache
+C:\Users\ja\Source\Repos\clientBSD2\clientBSD2\bin\Debug\Colorful.Console.dll

@@ -1,0 +1,8 @@
+1. Otwieramy projekt serverBSD2/serverBSD2.sln
+2. Uruchamiamy serwer (serwer dzia³a na porcie 5000)
+3. Otwieramy projekt clientBSD2/clientBSD2.sln
+4. Uruchamiamy 5 razy (localhost, port 5000)
+5. W ka¿dej uruchomionej aplikacji clienciek wyskoczy na komunikat connetc czyli po³¹czono.
+6. Wpisujemy "LOGIN Nickname" (Nickname = twój nick)
+7. Po po³¹czeniu i wpisanu loginów przez 5 graczy wyœwietli siê przypisanie cyfr gracz¹ oraz tablica z randowmowym ustawieniem graczy.
+8. W lokalizacji serverBSD2\serverBSD2\bin\Debug jest plik log z logami z serwera.
